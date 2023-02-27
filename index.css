@@ -1,0 +1,51 @@
+body{
+    background: rgb(36,132,139);
+    background: linear-gradient(265deg, rgba(36,132,139,1) 28%, rgba(133,132,132,1) 87%); 
+}
+
+
+.heading{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.main{
+    width:400px;
+    height:567px;
+    margin-bottom: 30px;
+    border: 5px solid black;
+    box-shadow: -20px -20px 50px rgb(5, 12, 14);
+    color: white;
+    padding: 1em;
+    border-radius: 50px;
+}
+
+.screen{
+    margin-top: 50px;
+    width: 365px;
+    height: 90px;
+    margin-bottom: 25px;
+    font-size: 50px;
+    text-align: right;
+    outline: none;
+    border: 2px solid black;
+    background: inherit;
+}
+
+.rounded-circle, .rounded-pill{
+    background-color: black;
+    color: white;
+    width: 70px;
+    height: 60px;
+}
+
+.equal{
+    width: 140px;
+}
+
+
+
